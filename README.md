@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <p align="center">
-  <a href="buymeacoffee.com/quocvietit">
+  <a href="https://buymeacoffee.com/quocvietit">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="quocvietit" />
   </a>
 </p>
