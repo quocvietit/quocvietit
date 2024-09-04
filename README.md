@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **quocvietit/quocvietit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<p align="center">
+  <a href="buymeacoffee.com/quocvietit">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="quocvietit" />
+  </a>
+</p>
